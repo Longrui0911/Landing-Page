@@ -1,0 +1,50 @@
+@media(max-width:600px) {
+    .heading-primary--main {
+        font-size: 3rem;
+        letter-spacing: 1rem;
+    }
+    .header__text-box {
+        top: 40%;
+    }
+    .btn:link,
+    .btn:visited {
+        padding: 1rem 2rem;
+        font-size: 1.3rem;
+    }
+    .section-about {
+        padding: 20rem 0;
+        margin-top: -35rem;
+    }
+    .heading-secondary {
+        font-size: 2.5rem;
+    }
+    .composition__photo--p2 {
+        top: -10rem;
+        right: -15rem;
+    }
+    .composition__photo--p3 {
+        top: -19rem;
+        left: 48px;
+    }
+    .composition__photo--p1 {
+        top: 0;
+    }
+    .navigation__button {
+        right: 5.5rem;
+    }
+    .navigation__background {
+        right: 5.5rem;
+    }
+    .section-skills {
+        margin-top: -35rem;
+    }
+    .testimonial {
+        background-color: transparent;
+    }
+}
+
+@media(max-width:900px) {
+    .testimonial {
+        background-color: transparent;
+    }
+}
